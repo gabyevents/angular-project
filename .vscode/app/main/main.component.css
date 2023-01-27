@@ -1,0 +1,37 @@
+
+.card{
+    width: 200px;
+    height: min-content; 
+}
+
+.col{
+    padding: 10px;
+}
+
+.card-body{
+    display: flow-root;
+}
+
+.container:hover{
+    color: red;
+
+}
+
+.container{
+  
+    transition: all 3s;
+   
+}
+
+.card-body{
+
+}
+
+.h3{
+    color: #fff;
+    font-family: 'Zen Dots', cursive;
+}
+
+
+
+

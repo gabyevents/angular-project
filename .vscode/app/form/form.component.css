@@ -1,0 +1,31 @@
+h3{
+    font-family:  'Zen Dots', cursive;
+    color: #fff;
+}
+
+div.row.g-1{
+    display: flexbox;
+    color: #fff;
+    padding: 2rem;
+    justify-content: center;
+    margin: 1rem;
+}
+
+textarea{
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
+div.area{
+    display: flexbox;
+    align-items: center;
+}
+
+button{
+    width: 25vh;
+   
+};
+
+
+

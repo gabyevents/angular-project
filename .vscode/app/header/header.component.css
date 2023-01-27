@@ -1,0 +1,25 @@
+*{
+    font-family: 'Zen Dots', cursive;
+    background: #202122;
+    
+   
+
+}
+
+h1{
+    color: #FFF;
+    font-size: 50px;
+    
+}
+
+p{
+    font-size: 20px;
+    color: #FFF;
+    padding: 20px;
+}
+
+.container{
+    padding: 10px;
+    box-sizing:border-box;
+    border-radius: 20px;
+}
